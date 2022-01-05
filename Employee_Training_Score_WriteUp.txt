@@ -1,0 +1,8 @@
+Employee Traning Score Writeup
+
+
+1.Importing the json file to the mongo database -- mongoimport command
+2.Calculating the number of employees who failed in term1 using the count query -- count()
+3.Calculating the average of the employee of the term1 using the average query
+4.Calculating the count of the employees who have passed all term1,term2 and term3 using the and query -- Avg command
+5.Calculating the average of each employee using the project query
